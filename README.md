@@ -15,7 +15,7 @@
  - 本科/[榆林学院](http://www.yulinu.edu.cn)（`不用查了，普通二本`）
  - 工作年限：3年
  - 技术博客：http://www.cnblogs.com/baiyunchen
- - Github：https://github.com/baiyunchen ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
+ - Github：https://github.com/baiyunchen
 
  - 当前职位：.Net高级程序员
  - 当前薪资：你想知道的太多了
