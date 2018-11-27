@@ -1,5 +1,5 @@
 # Resume
-本人并不打算跳槽，只是看到github上的一个简历模版，忍不住回顾最近几年的成长。
+**很重要：** 本人并不打算跳槽，只是看到github上的一个简历模版，忍不住回顾最近几年的成长。
 简历模版链接：https://github.com/geekcompany/ResumeSample
 
 # 联系方式
@@ -15,7 +15,6 @@
  - 工作年限：2014年（实习）至今
  - 技术博客：http://www.cnblogs.com/baiyunchen
  - Github：https://github.com/baiyunchen
- - 开源项目：https://github.com/baiyunchen/UEditor.Core
  - 当前职位：.Net开发
  - 当前薪资：你想知道的太多了
  - 期望城市：西安
@@ -24,21 +23,10 @@
 # 个人简介
 
 - 热爱技术，喜欢钻研技术，对.NET的发展持续关注，非常愿意学习和了解新的语言和框架
-- 编程语言：`C#`/`JavaScript`/`TypeScript`
-- 数据库：`SQL Server`/`My Sql(仅限于会用)`
-- 常用框架：`.NET MVC`/`Angular`
+- 热爱开源，关注开源，参与开源
+- 性格开朗，喜欢与他人交流、分享
 - 熟悉面向对象思想，能熟练使用面向对象的思想进行开发
 - 没有自己的编码风格，能遵循团队的相关编码规范，对自己所写代码的可读性要求较高
-- 相关框架、工具掌握情况：
-  - 能熟练使用Visual Studio（不会熟练用这个还能算.NET猿么）、Visual Studio Code
-  - 阅读过部分`ABP`/`NopCommerce`的源码，并在项目中实践过这两个开源项目
-  - 正在学习微服务相关技术，目前处于理论学习阶段，希望能够在后续将理论转换为实践
-  - 对大数据产品HBase/Solr/MongoDB/Redis有一定了解，在项目中有过简单实践
-  - 对消息队列有一定了解，有一定实践经验
-  - 对DevOps有一定了解，曾尝试在项目组推行持续集成（CI），效果不错，但只是在测试环境实践
-  - 熟练使用源代码管理工具GIT、SVN、TFS
-  - 对Restful API有一定理解
-  - 对Docker有一定了解和实践经验
 - 业务能力：对国外电商系统中的商品管理相关业务较为熟悉
 ---
 
@@ -70,3 +58,57 @@
   - 在实践的过程中，逐渐摸索，为组内制定了很多Angular下的开发规范，包括代码规范、UI设计规范等等；
   - 组织组员进行学习和培训，协助将公司的框架落地；
   - 在落地的过程中，为框架提过N多建议，也协助框架完善过一些功能；
+
+# 开源作品与项目
+
+## 开源项目
+
+- [UEditor.Core](https://github.com/baiyunchen/UEditor.Core):百度UEditor富文本编辑器后端文件上传服务，兼容.NET和.NET Core
+
+## 技术文章
+
+- [MVC +WebUploader 实现分片上传大文件](https://www.cnblogs.com/baiyunchen/p/5383507.html)
+
+- [将Dotnet Core部署到Docker上](https://www.cnblogs.com/baiyunchen/p/5812110.html)
+
+- [尝试.Net Core—使用.Net Core + Entity FrameWork Core构建WebAPI（一）](https://www.cnblogs.com/baiyunchen/p/5665100.html)
+
+- [微信公众平台开发概述](https://www.cnblogs.com/baiyunchen/p/5116361.html)
+- [NopCommerce 3.4中商品详情页面单选框、复选框的美化](https://www.cnblogs.com/baiyunchen/p/4239259.html)
+
+
+
+## 公开分享过的PPT
+
+- 持续集成在小贷系统中的应用.PPTX
+- 微信公众号开发
+
+# 技能清单
+
+- 语言：`C#`/`JavaScript`/`TypeScript`
+- WEB开发：`.NET Core MVC`
+- 前端技术：`Angular`/`Sliverlight`/`Vue`/`Jquery`/`Blazor`/`BootStrap`
+- 数据库相关：`SQL Server`/`MySql`
+- 开发工具：`Visual Studio`、`Visual Studio Code`、`Web Storm`
+- 版本管理：`GIT`/`SVN`/`TFS`
+- 技术框架：`Micro Service`/`ABP`/`NOP Commerce`
+- 团队协作：`Scrum`
+- 其他：`Docker`/`DevOps`/`Message Queue`/`Restful API`/`微信公众平台`
+
+
+## 参考技能关键字
+
+- .NET/.NET Core
+- MVC
+- C#
+- JavaScript
+- Angular
+- SQL SERVER
+- GIT
+- Entity Framework
+- Dapper
+- Scrum
+
+# 致谢
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
